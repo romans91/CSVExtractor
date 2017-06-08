@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpreadsheetCsvExtractor:jar">
+    <output-path>$PROJECT_DIR$/../SpreadsheetCsvExtractor/out/artifacts/SpreadsheetCsvExtractor_jar</output-path>
+    <root id="archive" name="SpreadsheetCsvExtractor.jar">
+      <element id="module-output" name="SpreadsheetCsvExtractor" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../SpreadsheetCsvExtractor/libs/poi-3.16/poi-ooxml-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../SpreadsheetCsvExtractor/libs/poi-3.16/poi-ooxml-schemas-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../SpreadsheetCsvExtractor/libs/poi-3.16/ooxml-lib/xmlbeans-2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../SpreadsheetCsvExtractor/libs/poi-3.16/lib/commons-collections4-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../SpreadsheetCsvExtractor/libs/poi-3.16/poi-3.16.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
